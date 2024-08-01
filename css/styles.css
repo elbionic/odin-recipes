@@ -1,0 +1,21 @@
+
+
+img {
+    height: auto;
+    width: auto;
+}
+
+p {
+    color: red;
+}
+
+h1 {
+    text-align: center;
+    background-color: hsla(120, 100%, 70%, 20%);
+}
+
+a {
+    display: block;
+    text-align: center;
+}
+
